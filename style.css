@@ -1,10 +1,11 @@
 body {
-    background-color: #000000;
+    background-color: black;
   }
   
   h1 {
-    color: #a70000;
+    color: red;
     text-align: center;
+    font-size: 30px;
   }
   
   p {
